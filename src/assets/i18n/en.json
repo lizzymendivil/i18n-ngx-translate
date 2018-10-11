@@ -1,0 +1,18 @@
+{
+	"demo": {
+		"by": "By Lizzy Mendivil",
+		"chose_language": "Choose Language",
+		"english": "English",
+		"forgot_password": "Forgot password?",
+		"not_member": "Not a member?",
+		"password": "Password",
+		"remember": "Remember me",
+		"signin": "Sign in",
+		"signin_with": "Or sign in with",
+		"signup": "Sign up now",
+		"spanish": "Spanish",
+		"title": "Internationalize your App!",
+		"username": "Username",
+		"welcome": "Welcome!"
+	}
+}
